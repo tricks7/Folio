@@ -8,7 +8,7 @@
 /***************** Configuration *****************/
 
   // Replace with your real receiving email address
-  $contact_email_to = "contact@example.com";
+  $contact_email_to = "tricks7@me.com";
 
   // Title prefixes
   $subject_title = "Contat Form Message:";
@@ -20,7 +20,7 @@
   $contact_error_name = "Name is too short or empty!";
   $contact_error_email = "Please enter a valid email!";
   $contact_error_subject = "Subject is too short or empty!";
-  $contact_error_message = "Too short message! Please enter something.";
+  $contact_error_message = "Message too short! Please enter something.";
 
 /********** Do not edit from the below line ***********/
 
